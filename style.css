@@ -1,0 +1,38 @@
+body{
+	background: #eee;
+
+}
+
+#frm{
+	border: solid gray 3px;
+	width: 20%;
+	border-radius: 5px;
+	margin: 100px 0px 0px 480px;
+	text-align: center;
+    padding: 50px;
+	background: #FFFFFF;
+}
+
+#btn{
+	color: #fff;
+	background: #337ab7;
+	padding: 5px;
+}
+#home_body{
+	background-color:  #eee;
+}
+#home{
+	text-align: center;
+	background-color: #FFFFFF;
+	margin: 50px 20px 0px 20px;
+	padding: 150px 150px 150px 150px;
+	width: 1000px;
+
+}
+#home_footer{
+	text-align: center;
+	background-color: #FFFFFF;
+	padding: 10px 150px 10px 150px; 
+	margin: 0px 20px 0px 20px;
+	width: 1000px;
+}
